@@ -1,0 +1,10 @@
+description:
+The password for the next level is stored in the only human-readable file in the inhere directory. Tip: if your terminal is messed up, try the “reset” command.
+
+solution:
+when we get into inhere directory we got files with -file00 etc .. names, what we can do is display all files with its name in new lines to get human-readable chars, to do that we use
+*find ./ -type f | xargs head -n +1^*
+then we are getting the readable cahrs in file07 which is 
+
+
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR

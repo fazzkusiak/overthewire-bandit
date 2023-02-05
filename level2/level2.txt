@@ -1,0 +1,7 @@
+description: 
+The password for the next level is stored in a file called spaces in this filename located in the home directory
+
+solution:
+file is seperated on several words, we can get the values by seperating other words with \ such like *cat spaces\ in\ this\ filename*, then we are getting
+
+aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG

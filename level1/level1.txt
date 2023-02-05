@@ -1,0 +1,7 @@
+description:
+The password for the next level is stored in a file called - located in the home directory
+
+solution:
+we are looking for something called dashed file (-), we cant get the context just by *cat -*, instead of this we can use *cat < -*, which gives us password
+
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi

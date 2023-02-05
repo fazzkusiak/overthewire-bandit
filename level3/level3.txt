@@ -1,0 +1,7 @@
+description:
+The password for the next level is stored in a hidden file in the inhere directory.
+
+solution:
+we need to change directory to inhere folder by *cd inhere*, then we want to look for hidden file, by *ls -a* we are getting the .hidden file, then by *cat .hidden*
+
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe

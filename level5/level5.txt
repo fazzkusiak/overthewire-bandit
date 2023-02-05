@@ -1,0 +1,16 @@
+description:
+The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
+
+human-readable
+1033 bytes in size
+not executable
+
+solution:
+so we have to look for file with given properties
+cant find this file by *find . -size -1033b* somehow
+so ive used *find. !executable | xargs tail -n +1*
+ive got some files with the passwords, there arent so many, so I've found one which works
+
+
+
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
