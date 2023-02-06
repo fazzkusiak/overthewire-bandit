@@ -1,0 +1,8 @@
+description:
+The password for the next level is stored in the file data.txt, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions
+
+solution:
+you have to use tr command which allows to manipulate charactes based on given parametres
+*cat data.txt | tr [a-zA-Z] [n-za-mN-ZA-M]*
+
+JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
