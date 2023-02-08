@@ -4,3 +4,7 @@ The password for the next level is stored in a file readme in the homedirectory.
 solution:
 we are getting unlogged, we can bypass it by adding *bash* 
 *ssh bandit18@bandit.labs.overthewire.org -p 2220 bash*
+
+by *cat readme* we get
+
+awhqfNnAbc1naukrpqDYcF95h7HoMTrC
