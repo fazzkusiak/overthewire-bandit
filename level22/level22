@@ -1,0 +1,9 @@
+description:
+A program is running automatically at regular intervals from cron, the time-based job scheduler. Look in /etc/cron.d/ for the configuration and see what command is being executed.
+
+NOTE: Looking at shell scripts written by other people is a very useful skill. The script for this level is intentionally made easy to read. If you are having problems understanding what it does, try executing it to see the debug information it prints.
+solution:
+as before, you have to check where the script is hidden, as you can see how script works you can work out in which folder password is given. all you have to do is just md5sum the text given in the script, with changing bandit22 to bandit23, after that you get the folder name.
+
+
+QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G

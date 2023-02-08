@@ -1,0 +1,9 @@
+description:
+A program is running automatically at regular intervals from cron, the time-based job scheduler. Look in /etc/cron.d/ for the configuration and see what command is being executed.
+
+
+solution:
+checked the cron file by browsing to the /etc/cron.d where you can find cronjob_bandit22, there is other directory which drags to /usr/bin/cronjob_bandit22.sh, script contains one more directory in tmp, where by using cat we can get password
+
+WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
+
