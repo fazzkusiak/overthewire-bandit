@@ -1,0 +1,12 @@
+GNU nano 6.2                 script.sh                          
+#telnet localhost 30002
+for i in {0000..9999}
+do
+        tee VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar 
+        sleep 1;
+done
+
+
+
+
+
