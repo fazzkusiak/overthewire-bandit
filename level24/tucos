@@ -1,4 +1,4 @@
-GNU nano 6.2                 script.sh                          
+#!/bin/bash
 #telnet localhost 30002
 for i in {0000..9999}
 do
