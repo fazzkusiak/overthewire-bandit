@@ -1,0 +1,9 @@
+description:
+Good job getting a shell! Now hurry and grab the password for bandit27!
+
+solution:
+
+like in the previous we got binary file that allows to read passwrod for bandit 27, 
+*./bandit27-do cat /etc/bandit_pass/bandit27*
+
+YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
