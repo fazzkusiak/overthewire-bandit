@@ -1,0 +1,8 @@
+description:
+There is a git repository at ssh://bandit31-git@localhost/home/bandit31-git/repo. The password for the user bandit31-git is the same as for the user bandit31.
+
+Clone the repository and find the password for the next level.
+solution:
+in this level we have to push file with content, .gitignore not allows us to do that so we have to remove/change it in order to be able to push our file
+
+rmCBvG56y58BXzv98yZGdO7ATVL5dW8y
